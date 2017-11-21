@@ -1,0 +1,20 @@
+body {
+  font-family: "Overpass", sans-serif;
+  color: #fff;
+}
+
+main {
+  background-image: linear-gradient(to bottom, #ff9500, #ff5e3a 90%);
+}
+
+.btn-ghost {
+  color: #fff;
+  border: 2px solid #fff;
+  background-color: none;
+}
+
+.btn-ghost:hover {
+  color: #ff5e3a;
+  border: 2px solid #fff;
+  background-color: #fff;
+}
