@@ -1,9 +1,9 @@
-body {
+html {
   font-family: Overpass, sans-serif;
   color: #fff;
 }
 
-main {
+section {
   background-image: linear-gradient(to bottom, #ff9500, #ff5e3a 90%);
 }
 
